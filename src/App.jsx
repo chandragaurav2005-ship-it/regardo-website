@@ -104,7 +104,7 @@ function App() {
             <h3>Manpower Solutions</h3>
             <p>
               Skilled talent for IT, operations and
-              business roles.
+              business roles,Industrial labour, Construction Labour , Warshouse Labour BPO employees.
             </p>
           </div>
 
@@ -128,6 +128,12 @@ function App() {
             <h3>Process Automation</h3>
             <p>
               Streamline repetitive workflows with AI.
+            </p>
+          </div>
+          <div className="card">
+            <h3>Consultancy</h3>
+            <p>
+              Hiring , BPO.
             </p>
           </div>
         </div>
