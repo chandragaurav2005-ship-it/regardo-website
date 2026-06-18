@@ -542,8 +542,8 @@ button {
 }
 .voice-bot-btn {
   position: fixed;
-  bottom: 24px;
-  right: 95px; /* places it beside Tidio */
+  bottom: 90px;
+  right: 20px; /* places it beside Tidio */
   width: 56px;
   height: 56px;
   border-radius: 50%;
