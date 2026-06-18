@@ -542,18 +542,24 @@ button {
 }
 .voice-bot-btn {
   position: fixed;
-  bottom: 90px;
-  right: 20px; /* places it beside Tidio */
-  width: 56px;
-  height: 56px;
-  border-radius: 50%;
-  background: #2563eb;
+  bottom: 100px;
+  right: 20px;
+
+  width: 60px;
+  height: 60px;
+
+  background: #22c55e;
   color: white;
+
+  border-radius: 50%;
   text-decoration: none;
+
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 24px;
-  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
-  z-index: 9999;
+
+  font-size: 28px;
+  z-index: 99999;
+
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.25);
 }
