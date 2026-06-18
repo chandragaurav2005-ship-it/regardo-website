@@ -268,6 +268,14 @@ function App() {
       <footer>
         © 2026 Regardo Vision and Sources Pvt. Ltd.
       </footer>
+      <a
+  href="https://vapi.ai?demo=true&shareKey=5b48ca8f-3e0f-4f93-b864-33c60d6301ea&assistantId=53cdf2f1-7acd-442e-9e42-eb0019a858c6"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="voice-bot-btn"
+>
+  🎙️
+</a>
 
     </div>
   );
