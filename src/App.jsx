@@ -1,4 +1,5 @@
 import "./App.css";
+import logo from "./assets/logo.jpeg";
 
 function App() {
   return (
@@ -7,7 +8,9 @@ function App() {
       {/* Navbar */}
       <nav className="navbar">
         <div className="logo">
-          <div className="logo-box">RV</div>
+          <div className="logo">
+  <img src={logo} alt="Regardo Vision Logo" />
+</div>
           <div>
             <h3>Regardo Vision</h3>
             <p>and Sources Pvt. Ltd.</p>
