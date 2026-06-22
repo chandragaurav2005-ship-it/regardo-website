@@ -107,7 +107,7 @@ function App() {
             <h3>Manpower Solutions</h3>
             <p>
               Skilled talent for IT, operations and
-              business roles,Industrial labour, Construction Labour , Warshouse Labour BPO employees.
+              business roles,Industrial labour, Construction Labour , Warshouse, Labour and BPO employees.
             </p>
           </div>
 
